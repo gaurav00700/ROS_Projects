@@ -5,3 +5,5 @@ Code is written in Python using rospy and implemented on Turtlebot3
 
 Video Link:
 https://www.youtube.com/watch?v=xYhAoKsZDaI
+
+![generated path](https://github.com/gaurav00700/ROS/blob/main/Follow%20the%20gap%20(FTG)/FTG_turtlebot3_4.mov)
