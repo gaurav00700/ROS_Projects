@@ -1,7 +1,7 @@
 # ROS
 Worked on above ROS projects. 
 All the projects are organised as per folders.
-1. Autonomous Parking consists of multiple tasks
+1. Autonomous Parking consists of multiple tasks (to be updated)
 2. Follow the gap, reactive based algorithm
 3. Follow the wall (using PID and conventional)
 4. Follow the trajectory using PID controller
