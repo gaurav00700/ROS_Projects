@@ -7,3 +7,5 @@ Refer attached research paper for more details.
 This is memory efficient and fast.
 
 ![generated paths](https://github.com/gaurav00700/ROS/blob/main/Path%20planning/Informed%20RRT*/goal_path_1.png)
+
+![generated paths](https://github.com/gaurav00700/ROS/blob/main/Path%20planning/RRT*/rrt_n_rrt*goal_path.png)
