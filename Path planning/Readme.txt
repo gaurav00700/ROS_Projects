@@ -4,4 +4,4 @@ This is one of the best implementation of Informed RRT*
 Refer attached research paper for more details.
 
 2. RRT*
-This is memory efficient and last.
+This is memory efficient and fast.
