@@ -12,7 +12,7 @@ All the projects are organised as per folders.
 
 
 I hope my work is helpful for your projects. 
-Understand the code then copy. 
-You discuss me with for any doubts.
+Understand the code then copy....!!!
+You can discuss me with for any doubts.
 
 Happy Learning :)
