@@ -13,6 +13,6 @@ All the projects are organised as per folders.
 
 I hope my work is helpful for your projects. 
 Please understand the code before copying, it will be help you....!!!
-You can discuss me with for any doubts.
+Contact me in case for any doubt.
 
-Happy Learning :)
+HAPPY LEARNING :)
