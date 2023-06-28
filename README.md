@@ -11,8 +11,6 @@ All the projects are organised as per folders.
 8. SLAM (Occupancy grip mapping)
 
 
-I hope my work is helpful for your projects. 
-Please understand the code before copying, it will be help you....!!!
-Contact me in case for any doubt.
+I hope my work is helpful for your projects.
 
 HAPPY LEARNING :)
