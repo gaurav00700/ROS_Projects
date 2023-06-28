@@ -13,3 +13,8 @@ All above requirements were fullfilled
 5. Code integration 
 6. ROS, python and its libraries were used for programming , visualization and execution. 
 7. Report preparation and project management 
+
+
+REFER VIDEO OF THE PROJECT
+
+https://www.youtube.com/watch?v=3y-8xQMYYTw
